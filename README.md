@@ -1,1 +1,1 @@
-[~Play Game~](https://damitha-bandara.github.io/flappybird/)
+[Play Game](https://damitha-bandara.github.io/flappybird/)
